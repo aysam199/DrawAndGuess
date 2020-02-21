@@ -1,0 +1,13 @@
+.body {
+    background-image: url(./images/home.jpg);
+    color: rgba(245, 245, 245, 0.692);
+}
+.error-msg{
+    position: relative;
+    top:15vh;
+    text-align: center;
+}
+.error-desc{
+    color: red;
+    font-size: 1.4em;
+}

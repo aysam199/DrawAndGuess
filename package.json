@@ -1,0 +1,36 @@
+{
+  "name": "DrawAndGuess",
+  "version": "1.0.0",
+  "description": "Simple web application where one player draws an image and the others have to guess it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aysam199/DrawAndGuess.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aysam199/DrawAndGuess/issues"
+  },
+  "homepage": "https://github.com/aysam199/DrawAndGuess#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.12.1",
+    "axios": "^0.19.2",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "express-session": "^1.17.0",
+    "handlebars": "^4.7.3",
+    "hbs": "^4.1.0",
+    "helmet": "^3.21.2",
+    "nodemon": "^2.0.2",
+    "pg": "^7.18.1",
+    "socket.io": "^2.3.0",
+    "unique-names-generator": "^4.2.0"
+  }
+}
